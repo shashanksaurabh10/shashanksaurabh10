@@ -55,9 +55,10 @@
 
 ## Education
 
-**B.Tech in Information Technology**, VIT Vellore  
+**B.Tech in Information Science and Engineering **
+*Acharya Institute of Technology, Bangalore*
 *CGPA: 9.42*  
-*Jul 2017 - Jul 2021*
+*Aug 2018 - Jul 2022*
 
 ---
 
