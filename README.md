@@ -11,10 +11,10 @@
 **Technical Skills**
 
 - Languages : Python, Golang, JavaScript
-- Technologies and Frameworks : Microservices, Node.js, Redis, Kafka, REST APIs, FastAPI, Langchain
+- Technologies and Frameworks : Microservices, Node.js, Redis, Kafka, REST APIs, FastAPI
 - Databases : MongoDB, MySQL, PostgreSQL, ElasticSearch
 - DevOps & Cloud : AWS, Docker, Kubernetes, Git, CI/CD, Jenkins, Grafana
-- AI Tools/Frameworks: Langchain, Langraph, RAG, Huggingface, MCP, Vector DB, LLM
+- AI Tools/Frameworks: Langchain, LangGraph, RAG, Huggingface, MCP, Vector DB, LLM
 - Fundamentals : Low level Design, High Level Design, SOLID, Design Patterns, Debugging, Root Cause Analysis
 
 **Soft Skills**
