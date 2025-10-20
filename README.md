@@ -14,7 +14,7 @@
 - Technologies and Frameworks : Microservices, Node.js, Redis, Kafka, REST APIs, FastAPI
 - Databases : MongoDB, MySQL, PostgreSQL, ElasticSearch
 - DevOps & Cloud : AWS, Docker, Kubernetes, Git, CI/CD, Jenkins, Grafana
-- AI Tools/Frameworks: Langchain, LangGraph, RAG, Huggingface, MCP, Vector DB, LLM
+- AI Tools/Frameworks: Generative AI, Langchain, LangGraph, Retrieval Augmented Generation (RAG), Huggingface, Model Context Protocol (MCP), Vector DB, LLM
 - Fundamentals : Low level Design, High Level Design, SOLID, Design Patterns, Debugging, Root Cause Analysis
 
 **Soft Skills**
@@ -27,26 +27,27 @@
 
 ### **Software Engineer II**
 **Cisco**, Bengaluru, India  
-*May 2022 - Present*
+*Sept 2025 - Present*
 
-- Designed and developed a **centralised notification library** used in **30+** microservices to allow updates to be made in one place, reducing maintenance time and effort by **95%**.
-- Built and integrated microservices for self-provisioning of private cloud services like Kafka & Load Balancer, supporting CRUD and real-time notifications, which accelerated the entire process flow by **90%** for internal customers.
-- Led the development of a client-facing **Status Page** to publicly communicate the status of **100+ API** endpoints, increasing customer satisfaction and transparency.
-- Led E2E brownfield migration for **100+ OpenStack resources**, reducing provisioning time by **94%**.
-- Designed and implemented an effective PR review process and sanity checklist, reducing PR comments and increasing development speed by **80%**.
-- **Tech Stack:** REST API, Golang, GIT, Swagger, MongoDB, Docker, Jenkins, CI/CD, Openshift, ELK, Kafka
+- Implemented a code similarity detection feature leveraging Elasticsearch and a custom similarity API, reducing risk of non-compliant code reuse by 15% across enterprise projects.
+- Designed and developed a microservice to index and embed multi-language GitHub repositories and documentation into vector DB to enable Retrieval-Augmented Generation (RAG) for a coding assistant, adopted by over 15 internal teams.
+- **Tech Stack:** Python, REST API, Golang, MongoDB, Docker, Kubernetes, Openshift, Kafka, Redis, ElasticSearch
 
-### **Software Engineer I**
-**Cisco**, Bengaluru, India  
-*Aug 2021 - Apr 2022*
+### **Backend Developer**
+**IBM India Software Labs**, Bengaluru, India  
+*July 2024 - Aug 2025*
 
-- Implemented config audit automation for network devices, reducing manual work by **85%**.
-- Implemented Pre/Post checks automation, leading to a **50%** time improvement in the change request window.
-- **Tech Stack:** JavaScript, Python, Git, BPA, Cisco NSO
+- Spearheaded the end-to-end backend development of IBM Watsonx Code Assistant from the ground up using Python’s FastAPI framework, integrating Large Language Models (LLMs) and generative AI to deliver enhanced code generation capabilities that improve developer productivity.
+- Implemented authentication and authorization supporting various user plans using JWT-based authentication, role-based access control, and plan-based feature restrictions, supporting scale to over 1000 of enterprise users.
+- Integrated IBM Watsonx Code Assistant as a plugin in popular Integrated Development Environments (IDEs) such as VSCode and Eclipse, facilitating seamless AI-driven code assistance for developers.
+- Implemented and managed Redis and PostgreSQL for efficient data storage and caching solutions, reducing the average response time from the code assistant by 30%-40%.
+- Designed and integrated Retrieval Augmented Generation (RAG) feature that allows users to connect custom vector DB like ElasticSearch into the Watsonx Code Assistant workflow delivering context-aware responses and boosting solution relevance by 60%.
+- Deployed a scalable microservices architecture on OpenShift Kubernetes, ensuring high availability and scalability of the application.
+- **Tech Stack:** JPython, FastAPI, Langchain, ElasticSearch, PostgreSQL, Redis, Microservices, REST APIs, Retrieval Augmented Generation (RAG), Model context Protocol (MCP), Generative AI, LLM
 
-### **Software Engineer Intern**
-**Cisco**, Bengaluru, India  
-*Jan 2021 - Jul 2021*
+### **Software Engineer**
+**MapleLabs**, Bengaluru, India  
+*Aug 2022 - June 2024*
 
 - Developed a one-stop portal for **5+** network dashboards supporting flexible updates, enhancing the efficiency of network teams.
 - **Tech Stack:** ReactJS, Docker, Git, Bootstrap/SaaS, Jenkins, CI/CD, Openshift
