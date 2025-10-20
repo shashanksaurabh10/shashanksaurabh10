@@ -55,10 +55,10 @@
 
 ## Education
 
-**B.Tech in Information Science and Engineering**
-*Acharya Institute of Technology, Bangalore*
-*CGPA: 9.42*
-*Aug 2018 - Jul 2022*
+**B.Tech in Information Science and Engineering**   
+*Acharya Institute of Technology, Bangalore*   
+*CGPA: 9.42*   
+*Aug 2018 - Jul 2022*   
 
 ---
 
