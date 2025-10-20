@@ -49,8 +49,18 @@
 **MapleLabs**, Bengaluru, India  
 *Aug 2022 - June 2024*
 
-- Developed a one-stop portal for **5+** network dashboards supporting flexible updates, enhancing the efficiency of network teams.
-- **Tech Stack:** ReactJS, Docker, Git, Bootstrap/SaaS, Jenkins, CI/CD, Openshift
+- Developed and implemented over 30+ network traffic monitoring scripts using Python’s pyATS framework to validate the performance and functionality of Cisco’s Security Service Edge (SSE) application, resulting in 40% reduction in downtime by proactively identifying and resolving issues.
+- Implemented a comprehensive monitoring infrastructure for the Cisco SFCN project using Prometheus, Grafana, and Helm charts. Designed dashboards to visualize key metrics, enabling data-driven decisions that optimized resource utilization by 30%.
+- Deployed applications using Docker and Kubernetes for seamless deployment and scalability. Streamlined CI/CD pipelines with ArgoCD, significantly reducing time-to-deployment and improving efficiency.
+- **Tech Stack:** Python, Golang, Docker, Kuberentes, Kafka, Grafana, MySQL, REST APIs, Microservices, CI/CD
+
+### **Software Engineer Intern**
+**MapleLabs**, Bengaluru, India  
+*Mar 2022 - July 2022*
+
+- Designed and implemented a microservices Based Payment Gateway using Spring Boot, with Redis for caching and MongoDB for transaction storage.
+- Deployed the system on Kubernetes with Docker containers, ensuring high availability, scalability, and seamless management across multiple environments.
+- **Tech Stack:** Java, SpringBoot, Redis, MangoDB,Docker, Kubernetes, Microservices
 
 ---
 
