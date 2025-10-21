@@ -65,16 +65,15 @@
 
 **B.Tech in Information Science and Engineering**   
 *Acharya Institute of Technology, Bangalore*   
-*CGPA: 9.42*   
+*CGPA: 8.80*   
 *Aug 2018 - Jul 2022*   
 
 ---
 
 ## Achievements
 
-- Received the Cisco **IT Challenge Coin** award for dedicated service and exemplary professionalism.
-- Earned an **Early Promotion** in recognition of exceptional performance and contribution to the team.
-- Awarded Cisco **Intern of the Month** for June 2021 for IT - Infrastructure APJC.
-- Ranked in the **Top 5%** on LeetCode with a maximum rating of **1900+**.
+- Received IBM Growth Award for Exceptional Contribution to Revenue Growth for IBM watsonx Code Assistant (WCA) Product.
+- Received Excellence and SPOT Award at MapleLabs for contribution in backend development for PaaS Monitoring.
+- Build a strong foundation in DSA by solving over 500+ problems on Leetcode.
 
 ---
