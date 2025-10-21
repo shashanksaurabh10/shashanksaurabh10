@@ -20,27 +20,14 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ---
 
-## 🧠 Technical Expertise
-
-🏗️ **Languages & Frameworks**: Python • Golang • JavaScript • Node.js • FastAPI • Spring Boot    
-⚙️ **Technologies**: Microservices • REST APIs • Redis • Kafka • Docker • Kubernetes • Jenkins • Grafana     
-🧩 **Databases**: MongoDB • MySQL • PostgreSQL • ElasticSearch    
-☁️ **Cloud & DevOps**: AWS • OpenShift • CI/CD • Containerization • Monitoring    
-🤖 **AI & GenAI Tools**: LangChain • LangGraph • RAG • HuggingFace • MCP (Model Context Protocol) • Vector DBs • LLM Integration    
-🧩 **Software Design**: Low-Level Design (LLD) • High-Level Design (HLD) • SOLID Principles • Design Patterns • Root Cause Analysis     
-
-
-## Skills
-
-**Technical Skills**
+## 🧠 Technical Skills
 
 - Languages : Python, Golang, JavaScript
 - Technologies and Frameworks : Microservices, Node.js, Redis, Kafka, REST APIs, FastAPI
 - Databases : MongoDB, MySQL, PostgreSQL, ElasticSearch
 - DevOps & Cloud : AWS, Docker, Kubernetes, Git, CI/CD, Jenkins, Grafana
-- AI Tools/Frameworks: Generative AI, LangChain, LangGraph, Retrieval Augmented Generation (RAG), Huggingface, Model Context Protocol (MCP), Vector DB, LLM
+- AI Tools/Frameworks: Generative AI, LangChain, LangGraph, RAG, Huggingface, Model Context Protocol (MCP), Vector DBs, LLM
 - Fundamentals : Low level Design, High Level Design, SOLID, Design Patterns, Debugging, Root Cause Analysis
-
 
 ---
 
