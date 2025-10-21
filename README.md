@@ -70,13 +70,6 @@
 
 ---
 
-## Initiatives & Projects
-
-- Developed a **Go CLI Utility** to automate schema generation tasks for the cost management tool, improving efficiency by **10x**.
-- Led the **UI modernization** of an entire application by designing a complete prototype for over **20+** screens in Figma to meet current industry standards.
-
----
-
 ## Achievements
 
 - Received the Cisco **IT Challenge Coin** award for dedicated service and exemplary professionalism.
