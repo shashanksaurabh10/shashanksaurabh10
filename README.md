@@ -17,9 +17,6 @@
 - AI Tools/Frameworks: Generative AI, Langchain, LangGraph, Retrieval Augmented Generation (RAG), Huggingface, Model Context Protocol (MCP), Vector DB, LLM
 - Fundamentals : Low level Design, High Level Design, SOLID, Design Patterns, Debugging, Root Cause Analysis
 
-**Soft Skills**
-
-- Leadership, Teamwork, Mentorship, Project Management
 
 ---
 
