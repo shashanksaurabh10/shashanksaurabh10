@@ -1,3 +1,16 @@
+
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Shashank Saurabh</span></h1>
+<h3 align="center">Backend Engineer | AI Enthusiast | Golang • Python • Cloud</h3>
+
+<p align="center">
+  <a href="mailto:shashanksaurabh91@gmail.com"><img src="https://img.shields.io/badge/Email-shashanksaurabh91%40gmail.com-red?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/shashank-saurabh10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/shashanksaurabh91/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"></a>
+  <br>
+  📍 Bengaluru, India
+</p>
+
 # Shashank Saurabh
 
 **Email:** [shashanksaurabh91@gmail.com](mailto:shashanksaurabh91@gmail.com])   
