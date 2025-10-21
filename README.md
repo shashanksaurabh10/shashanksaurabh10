@@ -13,6 +13,36 @@
 
 ---
 
+## 🚀 About Me
+
+Backend-focused Software Engineer with hands-on experience designing **scalable microservices**, **LLM-powered AI systems**, and **cloud-native architectures**.  
+I love crafting clean, high-performance systems — from designing distributed APIs to integrating advanced AI pipelines for developer productivity.
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+## 🧠 Technical Expertise
+
+### 🏗️ **Languages & Frameworks**
+Python • Golang • JavaScript • Node.js • FastAPI • Spring Boot
+
+### ⚙️ **Technologies**
+Microservices • REST APIs • Redis • Kafka • Docker • Kubernetes • Jenkins • Grafana
+
+### 🧩 **Databases**
+MongoDB • MySQL • PostgreSQL • ElasticSearch
+
+### ☁️ **Cloud & DevOps**
+AWS • OpenShift • CI/CD • Containerization • Monitoring
+
+### 🤖 **AI & GenAI Tools**
+LangChain • LangGraph • RAG • HuggingFace • MCP (Model Context Protocol) • Vector DBs • LLM Integration
+
+### 🧩 **Software Design**
+Low-Level Design (LLD) • High-Level Design (HLD) • SOLID Principles • Design Patterns • Root Cause Analysis
+
+
 ## Skills
 
 **Technical Skills**
