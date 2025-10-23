@@ -26,7 +26,7 @@ I love crafting clean, high-performance systems — from designing distributed A
 - Technologies and Frameworks : Microservices, Node.js, Redis, Kafka, REST APIs, FastAPI
 - Databases : MongoDB, MySQL, PostgreSQL, ElasticSearch
 - DevOps & Cloud : AWS, Docker, Kubernetes, Git, CI/CD, Jenkins, Grafana
-- AI Tools/Frameworks: Generative AI, LangChain, LangGraph, RAG, Huggingface, Model Context Protocol (MCP), Vector DBs, LLM
+- AI Tools/Frameworks: Generative AI, LangChain, LangGraph, RAG, Huggingface, MCP, Vector DBs, LLM
 - Fundamentals : Low level Design, High Level Design, SOLID, Design Patterns, Debugging, Root Cause Analysis
 
 ---
