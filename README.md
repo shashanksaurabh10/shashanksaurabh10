@@ -34,7 +34,7 @@ I love crafting clean, high-performance systems — from designing distributed A
 ## 💼 Work Experience
 
 ### **Software Engineer II**         
-####**Cisco**      
+#### **Cisco**      
 *Sept 2025 – Present*
 
 - Implemented a code similarity detection feature leveraging Elasticsearch and a custom similarity API, reducing risk of non-compliant code reuse by 15% across enterprise projects.
