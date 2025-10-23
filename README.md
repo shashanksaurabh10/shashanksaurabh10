@@ -31,10 +31,11 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 ### **Software Engineer II**
-**Cisco**, Bengaluru, India  
+**Cisco**, Bengaluru, India    
+📍 Bengaluru, India | *Sept 2025 – Present*
 *Sept 2025 - Present*
 
 - Implemented a code similarity detection feature leveraging Elasticsearch and a custom similarity API, reducing risk of non-compliant code reuse by 15% across enterprise projects.
