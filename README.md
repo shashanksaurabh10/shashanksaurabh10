@@ -33,8 +33,9 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ## 💼 Work Experience
 
-### **Software Engineer II**       
-**Cisco** | *Sept 2025 – Present*
+### **Software Engineer II**         
+####**Cisco**      
+*Sept 2025 – Present*
 
 - Implemented a code similarity detection feature leveraging Elasticsearch and a custom similarity API, reducing risk of non-compliant code reuse by 15% across enterprise projects.
 - Designed and developed a microservice to index and embed multi-language GitHub repositories and documentation into vector DB to enable Retrieval-Augmented Generation (RAG) for a coding assistant, adopted by over 15 internal teams.
