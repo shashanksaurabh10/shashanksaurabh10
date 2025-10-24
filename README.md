@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 Backend-focused Software Engineer with hands-on experience designing **scalable microservices**, **LLM-powered AI systems**, and **cloud-native architectures**.  
-I love crafting clean, high-performance systems — from designing distributed APIs to integrating advanced AI pipelines for developer productivity.
+I love crafting clean, high-performance systems; from designing distributed APIs to integrating advanced AI pipelines for developer productivity.
 
 ---
 
