@@ -97,8 +97,6 @@ I love crafting clean, high-performance systems — from designing distributed A
   <a href="https://leetcode.com/u/shashanksaurabh91/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white"></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashanksaurabh10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksaurabh10&theme=tokyonight&hide_border=true" height="150"/>
