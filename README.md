@@ -106,7 +106,8 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 <p align="center">
   <img 
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=tokyonight&line1=python,python,3776AB;golang,golang,00ADD8;javascript,javascript,F7DF1E;nodejs,node.js,339933;fastapi,fastapi,009688;kafka,kafka,231F20;&line2=docker,docker,2496ED;kubernetes,kubernetes,326CE5;aws,aws,FF9900;postgresql,postgresql,336791;redis,redis,DC382D;" 
+    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=tokyonight&line1=python,python,3776AB;golang,golang,00ADD8;javascript,javascript,F7DF1E;nodejs,node.js,339933;&line2=fastapi,fastapi,009688;kafka,kafka,231F20;docker,docker,2496ED;kubernetes,kubernetes,326CE5;&line3=aws,aws,FF9900;postgresql,postgresql,336791;redis,redis,DC382D;" 
     alt="Tech Stack"
   />
 </p>
+
