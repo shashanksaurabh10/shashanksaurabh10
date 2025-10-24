@@ -42,7 +42,7 @@ I love crafting clean, high-performance systems — from designing distributed A
 - **Tech Stack:** Python, REST API, Golang, MongoDB, Docker, Kubernetes, Openshift, Kafka, Redis, ElasticSearch
 
 ### **Backend Developer**
-**IBM India Software Labs**, Bengaluru, India  
+**IBM India Software Labs**     
 *July 2024 - Aug 2025*
 
 - Spearheaded the end-to-end backend development of IBM Watsonx Code Assistant from the ground up using Python’s FastAPI framework, integrating Large Language Models (LLMs) and generative AI to deliver enhanced code generation capabilities that improve developer productivity.
@@ -54,7 +54,7 @@ I love crafting clean, high-performance systems — from designing distributed A
 - **Tech Stack:** JPython, FastAPI, Langchain, ElasticSearch, PostgreSQL, Redis, Microservices, REST APIs, Retrieval Augmented Generation (RAG), Model context Protocol (MCP), Generative AI, LLM
 
 ### **Software Engineer**
-**MapleLabs**, Bengaluru, India  
+**MapleLabs**      
 *Aug 2022 - June 2024*
 
 - Developed and implemented over 30+ network traffic monitoring scripts using Python’s pyATS framework to validate the performance and functionality of Cisco’s Security Service Edge (SSE) application, resulting in 40% reduction in downtime by proactively identifying and resolving issues.
@@ -63,7 +63,7 @@ I love crafting clean, high-performance systems — from designing distributed A
 - **Tech Stack:** Python, Golang, Docker, Kuberentes, Kafka, Grafana, MySQL, REST APIs, Microservices, CI/CD
 
 ### **Software Engineer Intern**
-**MapleLabs**, Bengaluru, India  
+**MapleLabs**    
 *Mar 2022 - July 2022*
 
 - Designed and implemented a microservices Based Payment Gateway using Spring Boot, with Redis for caching and MongoDB for transaction storage.
@@ -72,19 +72,19 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ---
 
-## Education
+## 🎓 Education   
 
-**B.Tech in Information Science and Engineering**   
+**B.E. in Information Science and Engineering**   
 *Acharya Institute of Technology, Bangalore*   
-*CGPA: 8.80*   
-*Aug 2018 - Jul 2022*   
+🎓 *Acharya Institute of Technology, Bangalore*  
+📅 *2018 – 2022* | **CGPA:** 8.80   
 
 ---
 
-## Achievements
+## 🏆 Achievements   
 
-- Received IBM Growth Award for Exceptional Contribution to Revenue Growth for IBM watsonx Code Assistant (WCA) Product.
-- Received Excellence and SPOT Award at MapleLabs for contribution in backend development for PaaS Monitoring.
-- Build a strong foundation in DSA by solving over 500+ problems on Leetcode.
+- 🥇 **IBM Growth Award** – Outstanding contribution to revenue growth for *IBM Watsonx Code Assistant*  
+- 🌟 **Excellence & SPOT Awards** – Recognized at MapleLabs for backend development in PaaS Monitoring  
+- 💡 Solved **500+ Data Structures & Algorithms** problems on LeetCode 
 
 ---
