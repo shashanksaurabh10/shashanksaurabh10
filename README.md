@@ -75,8 +75,8 @@ I love crafting clean, high-performance systems — from designing distributed A
 ## 🎓 Education   
 
 **B.E. in Information Science and Engineering**     
-🎓 *Acharya Institute of Technology, Bangalore*  
-📅 *2018 – 2022*    
+*Acharya Institute of Technology, Bangalore*  
+*2018 – 2022*    
 **CGPA:** 8.80   
 
 ---
