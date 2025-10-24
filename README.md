@@ -81,6 +81,25 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ---
 
+## 💬 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:shashanksaurabh91@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shashank-saurabh10"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/shashanksaurabh91/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank-saurabh10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-saurabh10&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=tokyonight&line1=python,python,3776AB;golang,golang,00ADD8;javascript,javascript,F7DF1E;fastapi,fastapi,009688;&line2=docker,docker,2496ED;kubernetes,kubernetes,326CE5;aws,aws,FF9900;redis,redis,DC382D;" alt="Tech Stack"/>
+</p>
+
 ## 🏆 Achievements   
 
 - 🥇 **IBM Growth Award** – Outstanding contribution to revenue growth for *IBM Watsonx Code Assistant*  
