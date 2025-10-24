@@ -81,6 +81,14 @@ I love crafting clean, high-performance systems — from designing distributed A
 
 ---
 
+## 🏆 Achievements   
+
+- 🥇 **IBM Growth Award** – Outstanding contribution to revenue growth for *IBM Watsonx Code Assistant*  
+- 🌟 **Excellence & SPOT Awards** – Recognized at MapleLabs for backend development in PaaS Monitoring  
+- 💡 Solved **500+ Data Structures & Algorithms** problems on LeetCode 
+
+---
+
 ## 💬 Let’s Connect!
 
 <p align="center">
@@ -99,11 +107,3 @@ I love crafting clean, high-performance systems — from designing distributed A
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=tokyonight&line1=python,python,3776AB;golang,golang,00ADD8;javascript,javascript,F7DF1E;fastapi,fastapi,009688;&line2=docker,docker,2496ED;kubernetes,kubernetes,326CE5;aws,aws,FF9900;redis,redis,DC382D;" alt="Tech Stack"/>
 </p>
-
-## 🏆 Achievements   
-
-- 🥇 **IBM Growth Award** – Outstanding contribution to revenue growth for *IBM Watsonx Code Assistant*  
-- 🌟 **Excellence & SPOT Awards** – Recognized at MapleLabs for backend development in PaaS Monitoring  
-- 💡 Solved **500+ Data Structures & Algorithms** problems on LeetCode 
-
----
