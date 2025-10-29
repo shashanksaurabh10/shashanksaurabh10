@@ -99,7 +99,11 @@ I love crafting clean, high-performance systems; from designing distributed APIs
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashanksaurabh10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksaurabh10&theme=tokyonight&hide_border=true" height="150"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=shashanksaurabh10&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="150"
+  />
 </p>
 
 <p align="center">
