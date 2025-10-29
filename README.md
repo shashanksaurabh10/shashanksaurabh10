@@ -105,6 +105,11 @@ I love crafting clean, high-performance systems; from designing distributed APIs
     height="150"
   />
   <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksaurabh10&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="150"
+  />
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksaurabh10&layout=compact&theme=tokyonight&hide_border=true" 
     height="150"
   />
