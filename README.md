@@ -109,6 +109,7 @@ I love crafting clean, high-performance systems; from designing distributed APIs
     alt="GitHub Streak" 
     height="150"
   />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=highcontrast" alt="GitHub Streak" /></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksaurabh10&layout=compact&theme=tokyonight&hide_border=true" 
     height="150"
