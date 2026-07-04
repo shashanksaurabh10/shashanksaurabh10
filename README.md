@@ -15,8 +15,7 @@
 
 ## 🚀 About Me
 
-Backend-focused Software Engineer with hands-on experience designing **scalable microservices**, **LLM-powered AI systems**, and **cloud-native architectures**.  
-I love crafting clean, high-performance systems; from designing distributed APIs to integrating advanced AI pipelines for developer productivity.
+Software Engineer with 4+ years of experience designing and building **scalable backend systems, microservices, and AI-powered developer platforms** using Python, Golang, and cloud-native technologies. Proven expertise in **distributed systems, REST APIs, event-driven architectures, Kubernetes, Kafka, Redis, and PostgreSQL**. Built and scaled **Generative AI, LLM, and RAG-based** solutions serving thousands of users across enterprise environments. Delivered measurable impact through performance optimization, automation, observability, and resilient system design while collaborating with cross-functional teams in Agile environments.
 
 ---
 
